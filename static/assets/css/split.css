@@ -143,7 +143,7 @@ body.page-template-page-fullsingle-split p {
 }
 @media (max-width: 800px) {
   .fs-split .split-image {
-    height: 60vh;
+    height: 100vh;
     width: 100%;
   }
 }
@@ -329,11 +329,6 @@ body.page-template-page-fullsingle-split p {
   margin-bottom: 40px;
   vertical-align: top;
 }
-@media (max-width: 500px) {
-  .split-lists .split-list {
-    width: 90%;
-  }
-}
 .split-lists .split-list h3 {
   display: inline-block;
   font-weight: 400;
@@ -352,7 +347,7 @@ body.page-template-page-fullsingle-split p {
   display: inline-block;
   font-size: 16px;
   line-height: 16px;
-  margin-bottom: 12px;
+  padding-left: 5px;
 }
 .split-lists .split-list ul li a {
   color: #848d96;
