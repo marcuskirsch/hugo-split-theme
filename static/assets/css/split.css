@@ -143,7 +143,7 @@ body.page-template-page-fullsingle-split p {
 }
 @media (max-width: 800px) {
   .fs-split .split-image {
-    height: 80vh;
+    height: 60vh;
     width: 100%;
   }
 }
@@ -185,13 +185,13 @@ body.page-template-page-fullsingle-split p {
   letter-spacing: -2px;
 }
 .split-intro h1 {
-  font-weight: 400;
+  font-weight: 600;
   text-transform: uppercase;
   font-size: 16px;
   line-height: 16px;
   margin-bottom: 40px;
   letter-spacing: 0.4px;
-  color: #47bec7;
+  color: #CA486d;
 }
 .split-intro .tagline {
   color: #CCCCCC;
@@ -325,7 +325,6 @@ body.page-template-page-fullsingle-split p {
 }
 
 .split-lists .split-list {
-  width: 30%;
   display: inline-block;
   margin-bottom: 40px;
   vertical-align: top;
@@ -336,6 +335,7 @@ body.page-template-page-fullsingle-split p {
   }
 }
 .split-lists .split-list h3 {
+  display: inline-block;
   font-weight: 400;
   text-transform: uppercase;
   font-size: 11px;
@@ -345,7 +345,11 @@ body.page-template-page-fullsingle-split p {
   letter-spacing: 2px;
   opacity: 0.5;
 }
+.split-lists .split-list ul {
+  display: inline-block;
+}
 .split-lists .split-list ul li {
+  display: inline-block;
   font-size: 16px;
   line-height: 16px;
   margin-bottom: 12px;
