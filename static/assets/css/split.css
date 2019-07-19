@@ -191,7 +191,7 @@ body.page-template-page-fullsingle-split p {
   line-height: 16px;
   margin-bottom: 40px;
   letter-spacing: 0.4px;
-  color: #CA486d;
+  color: #21E58B;
 }
 .split-intro .tagline {
   color: #CCCCCC;
@@ -222,9 +222,9 @@ body.page-template-page-fullsingle-split p {
   border-bottom: 1px dotted #848d96;
 }
 .split-bio a:hover {
-  color: #CA486d;
+  color: #21E58B;
   transition-duration: 0.1s;
-  border-bottom: 1px dotted #CA486d;
+  border-bottom: 1px dotted #21E58B;
 }
 .split-bio em,
 .split-bio i {
@@ -352,7 +352,7 @@ body.page-template-page-fullsingle-split p {
   transition-duration: 0.5s;
 }
 .split-lists .split-list ul li a:hover {
-  color: #CA486d;
+  color: #21E58B;
   transition-duration: 0.1s;
 }
 
